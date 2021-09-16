@@ -1,0 +1,11 @@
+class WishList {
+  
+}
+
+addToWishList() {
+
+}
+
+removeFromWishList() {
+  
+}

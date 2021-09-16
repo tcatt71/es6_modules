@@ -3,7 +3,7 @@ class WishList {
 }
 
 addToWishList() {
-
+  
 }
 
 removeFromWishList() {
